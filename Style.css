@@ -1,0 +1,54 @@
+/*<uniquifier>: Use a uniquifier for the class name*/ 
+/*<weight>: Use a value from 100 to 900*/
+
+.outfit-uniquifier {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.attribution{
+
+}
+.attribution {
+     font-size: 15px;
+    }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     font-family: "Outfit", sans-serif;
+     padding-left: 5px;
+     font-size: medium;
+    }
+
+body{
+    background-color: #d5e1ef;
+    margin-left: 50%;
+
+}
+img{
+    border: solid white 10px;
+    border-radius: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+.card{
+    margin-top: 25%;
+    width: 320px;
+    text-align: center;
+    background-color: white;
+    border: solid white 20px;
+    border-radius: 5px;
+}
+
+h1{
+    color: #1f2942;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+
+}
+.sub-text{
+    color: #9b9ea5;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+}
